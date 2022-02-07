@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f37bf3eb-28e3-400c-bf79-b52a5c8f680e": {
+      "ProjectGuid": "f37bf3eb-28e3-400c-bf79-b52a5c8f680e",
+      "DisplayName": "CodeWarsProject",
+      "ColorIndex": 0
+    },
+    "9aff8bde-b4f1-4d82-9bea-6820fff91ca5": {
+      "ProjectGuid": "9aff8bde-b4f1-4d82-9bea-6820fff91ca5",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "7dbe6043-3190-42b8-933b-55ca07e9b715": {
+      "ProjectGuid": "7dbe6043-3190-42b8-933b-55ca07e9b715",
+      "DisplayName": "CreatePhoneNumber",
+      "ColorIndex": 2
+    },
+    "7871ae52-64a0-442a-9eb4-ffca9e12edea": {
+      "ProjectGuid": "7871ae52-64a0-442a-9eb4-ffca9e12edea",
+      "DisplayName": "FindEvenIndex",
+      "ColorIndex": 3
+    },
+    "7f466869-f9e6-467f-bbfa-083ce18ad47c": {
+      "ProjectGuid": "7f466869-f9e6-467f-bbfa-083ce18ad47c",
+      "DisplayName": "HighAndLow",
+      "ColorIndex": 4
+    },
+    "f878b4c6-79c7-4449-898b-f70b74fae579": {
+      "ProjectGuid": "f878b4c6-79c7-4449-898b-f70b74fae579",
+      "DisplayName": "Anagrams",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "ac8673e7-acfa-4f5d-a97b-b3a0154f90ed": {
+      "ProjectGuid": "ac8673e7-acfa-4f5d-a97b-b3a0154f90ed",
+      "DisplayName": "RomanNumeralDecoder",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

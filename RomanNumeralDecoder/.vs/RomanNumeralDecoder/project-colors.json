@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "38c4f2be-df9b-4606-b5d0-38b917e9e992": {
+      "ProjectGuid": "38c4f2be-df9b-4606-b5d0-38b917e9e992",
+      "DisplayName": "RomanNumeralDecoder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

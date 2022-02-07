@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\bin\Debug\net6.0\Anagrams.exe
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\bin\Debug\net6.0\Anagrams.deps.json
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\bin\Debug\net6.0\Anagrams.runtimeconfig.json
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\bin\Debug\net6.0\Anagrams.dll
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\bin\Debug\net6.0\ref\Anagrams.dll
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\bin\Debug\net6.0\Anagrams.pdb
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\obj\Debug\net6.0\Anagrams.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\obj\Debug\net6.0\Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\obj\Debug\net6.0\Anagrams.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\obj\Debug\net6.0\Anagrams.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\obj\Debug\net6.0\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\obj\Debug\net6.0\Anagrams.dll
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\obj\Debug\net6.0\ref\Anagrams.dll
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\obj\Debug\net6.0\Anagrams.pdb
+C:\Users\Admin\source\repos\CodeWarsProject\Anagrams\obj\Debug\net6.0\Anagrams.genruntimeconfig.cache
