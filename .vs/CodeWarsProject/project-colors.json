@@ -40,7 +40,12 @@
       "ProjectGuid": "ac8673e7-acfa-4f5d-a97b-b3a0154f90ed",
       "DisplayName": "RomanNumeralDecoder",
       "ColorIndex": 6
+    },
+    "d776bd24-d0c7-4dd0-98ab-d6dcb57d8255": {
+      "ProjectGuid": "d776bd24-d0c7-4dd0-98ab-d6dcb57d8255",
+      "DisplayName": "WeirdStringCase",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

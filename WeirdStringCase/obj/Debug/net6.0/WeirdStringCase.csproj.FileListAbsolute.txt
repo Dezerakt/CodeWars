@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\bin\Debug\net6.0\WeirdStringCase.exe
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\bin\Debug\net6.0\WeirdStringCase.deps.json
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\bin\Debug\net6.0\WeirdStringCase.runtimeconfig.json
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\bin\Debug\net6.0\WeirdStringCase.dll
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\bin\Debug\net6.0\ref\WeirdStringCase.dll
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\bin\Debug\net6.0\WeirdStringCase.pdb
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\obj\Debug\net6.0\WeirdStringCase.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\obj\Debug\net6.0\WeirdStringCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\obj\Debug\net6.0\WeirdStringCase.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\obj\Debug\net6.0\WeirdStringCase.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\obj\Debug\net6.0\WeirdStringCase.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\obj\Debug\net6.0\WeirdStringCase.dll
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\obj\Debug\net6.0\ref\WeirdStringCase.dll
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\obj\Debug\net6.0\WeirdStringCase.pdb
+C:\Users\Admin\source\repos\CodeWarsProject\WeirdStringCase\obj\Debug\net6.0\WeirdStringCase.genruntimeconfig.cache
