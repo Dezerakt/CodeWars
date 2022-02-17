@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\DuplicateEncoder",
     "\\WeirdStringCase"
   ],
-  "SelectedNode": "\\WeirdStringCase\\WeirdStringCase.csproj",
+  "SelectedNode": "\\DuplicateEncoder\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

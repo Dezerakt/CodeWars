@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\bin\Debug\net6.0\DuplicateEncoder.exe
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\bin\Debug\net6.0\DuplicateEncoder.deps.json
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\bin\Debug\net6.0\DuplicateEncoder.runtimeconfig.json
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\bin\Debug\net6.0\DuplicateEncoder.dll
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\bin\Debug\net6.0\ref\DuplicateEncoder.dll
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\bin\Debug\net6.0\DuplicateEncoder.pdb
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.dll
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\obj\Debug\net6.0\ref\DuplicateEncoder.dll
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.pdb
+C:\Users\Admin\source\repos\CodeWarsProject\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.genruntimeconfig.cache

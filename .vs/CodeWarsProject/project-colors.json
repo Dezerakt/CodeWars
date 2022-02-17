@@ -45,7 +45,12 @@
       "ProjectGuid": "d776bd24-d0c7-4dd0-98ab-d6dcb57d8255",
       "DisplayName": "WeirdStringCase",
       "ColorIndex": 7
+    },
+    "b67b9ff1-f3c6-4c98-91bf-1c297e330750": {
+      "ProjectGuid": "b67b9ff1-f3c6-4c98-91bf-1c297e330750",
+      "DisplayName": "DuplicateEncoder",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
