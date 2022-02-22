@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\bin\Debug\net6.0\MoveZeroes.exe
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\bin\Debug\net6.0\MoveZeroes.deps.json
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\bin\Debug\net6.0\MoveZeroes.runtimeconfig.json
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\bin\Debug\net6.0\MoveZeroes.dll
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\bin\Debug\net6.0\ref\MoveZeroes.dll
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\bin\Debug\net6.0\MoveZeroes.pdb
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\obj\Debug\net6.0\MoveZeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\obj\Debug\net6.0\MoveZeroes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\obj\Debug\net6.0\MoveZeroes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\obj\Debug\net6.0\MoveZeroes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\obj\Debug\net6.0\MoveZeroes.dll
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\obj\Debug\net6.0\ref\MoveZeroes.dll
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\obj\Debug\net6.0\MoveZeroes.pdb
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\obj\Debug\net6.0\MoveZeroes.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CodeWarsProject\MoveZeroes\obj\Debug\net6.0\MoveZeroes.csproj.AssemblyReference.cache

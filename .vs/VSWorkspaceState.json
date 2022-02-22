@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DuplicateEncoder",
-    "\\WeirdStringCase"
+    "\\TwoSum"
   ],
-  "SelectedNode": "\\DuplicateEncoder\\Program.cs",
+  "SelectedNode": "\\TwoSum\\TwoSum.csproj",
   "PreviewInSolutionExplorer": false
 }

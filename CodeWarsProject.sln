@@ -5,13 +5,15 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWarsProject", "CodeWarsProject\CodeWarsProject.csproj", "{F37BF3EB-28E3-400C-BF79-B52A5C8F680E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePhoneNumber", "CreatePhoneNumber\CreatePhoneNumber.csproj", "{7DBE6043-3190-42B8-933B-55CA07E9B715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatePhoneNumber", "CreatePhoneNumber\CreatePhoneNumber.csproj", "{7DBE6043-3190-42B8-933B-55CA07E9B715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindEvenIndex", "FindEvenIndex\FindEvenIndex.csproj", "{7871AE52-64A0-442A-9EB4-FFCA9E12EDEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindEvenIndex", "FindEvenIndex\FindEvenIndex.csproj", "{7871AE52-64A0-442A-9EB4-FFCA9E12EDEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighAndLow", "HighAndLow\HighAndLow.csproj", "{7F466869-F9E6-467F-BBFA-083CE18AD47C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighAndLow", "HighAndLow\HighAndLow.csproj", "{7F466869-F9E6-467F-BBFA-083CE18AD47C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagrams.csproj", "{F878B4C6-79C7-4449-898B-F70B74FAE579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anagrams", "Anagrams\Anagrams.csproj", "{F878B4C6-79C7-4449-898B-F70B74FAE579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{814E40B9-19EC-4137-9628-268E01776F06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F878B4C6-79C7-4449-898B-F70B74FAE579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F878B4C6-79C7-4449-898B-F70B74FAE579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F878B4C6-79C7-4449-898B-F70B74FAE579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814E40B9-19EC-4137-9628-268E01776F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814E40B9-19EC-4137-9628-268E01776F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814E40B9-19EC-4137-9628-268E01776F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814E40B9-19EC-4137-9628-268E01776F06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

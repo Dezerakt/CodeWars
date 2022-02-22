@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\CodeWarsProject\CodeWarsProject\obj\Debug\net6.0\Cod
 C:\Users\Admin\source\repos\CodeWarsProject\CodeWarsProject\obj\Debug\net6.0\ref\CodeWarsProject.dll
 C:\Users\Admin\source\repos\CodeWarsProject\CodeWarsProject\obj\Debug\net6.0\CodeWarsProject.pdb
 C:\Users\Admin\source\repos\CodeWarsProject\CodeWarsProject\obj\Debug\net6.0\CodeWarsProject.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CodeWarsProject\CodeWarsProject\obj\Debug\net6.0\CodeWarsProject.csproj.AssemblyReference.cache

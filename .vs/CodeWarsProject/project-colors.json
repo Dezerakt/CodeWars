@@ -50,7 +50,17 @@
       "ProjectGuid": "b67b9ff1-f3c6-4c98-91bf-1c297e330750",
       "DisplayName": "DuplicateEncoder",
       "ColorIndex": 8
+    },
+    "814e40b9-19ec-4137-9628-268e01776f06": {
+      "ProjectGuid": "814e40b9-19ec-4137-9628-268e01776f06",
+      "DisplayName": "MoveZeroes",
+      "ColorIndex": 9
+    },
+    "4fdd04e3-83dc-480d-8610-7ab54fa61ad2": {
+      "ProjectGuid": "4fdd04e3-83dc-480d-8610-7ab54fa61ad2",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 11
 }
